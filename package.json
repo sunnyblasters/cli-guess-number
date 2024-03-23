@@ -1,6 +1,6 @@
 {
-  "name": "cli-guess-number",
-  "version": "1.0.0",
+  "name": "sunny-guess-number",
+  "version": "1.0.2",
   "description": "this is simple cli based guessing number app.",
   "main": "app.js",
   "type": "module",

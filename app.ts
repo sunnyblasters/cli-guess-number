@@ -27,4 +27,4 @@ if (myGuess.guessNumber === randomNumber){
 }
 
 
-console.log(randomNumber);
+console.log('The random number is :'+ randomNumber);

@@ -14,4 +14,4 @@ if (myGuess.guessNumber === randomNumber) {
 else {
     console.log('Game over Please try again');
 }
-console.log(randomNumber);
+console.log('The random number is :' + randomNumber);
